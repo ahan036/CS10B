@@ -1,4 +1,4 @@
 # CS10B
 Introduction to Computer Science for Science, Mathematics, &amp; Engineering II
 
-This repository was created to document my progress in my second introductory course. 
+A collection of the labs and programming assignments completed during CS10B.
